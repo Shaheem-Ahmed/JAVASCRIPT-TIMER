@@ -1,0 +1,114 @@
+#year{
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #eee !important;
+    line-height: 1.625 !important;
+     
+    background-color: #055bb6 !important;
+    
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+     
+    border: 0px !important;
+    border-radius: 8px !important;
+     
+    width: 100% !important;
+    padding: 15px !important;
+    cursor: auto !important;
+}
+
+#day{
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #eee !important;
+    line-height: 1.625 !important;
+     
+    background-color: #055bb6 !important;
+    
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+     
+    border: 0px !important;
+    border-radius: 8px !important;
+     
+    width: 100% !important;
+    padding: 15px !important;
+    cursor: auto !important;
+}
+
+#hour{
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #eee !important;
+    line-height: 1.625 !important;
+     
+    background-color: #055bb6 !important;
+    
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+     
+    border: 0px !important;
+    border-radius: 8px !important;
+     
+    width: 100% !important;
+    padding: 15px !important;
+    cursor: auto !important;
+}
+
+#min{
+    font-size: 16px !important;
+font-weight: 300 !important;
+color: #eee !important;
+line-height: 1.625 !important;
+ 
+background-color: #055bb6 !important;
+
+background-repeat: no-repeat;
+background-position: 95% 50%;
+ 
+border: 0px !important;
+border-radius: 8px !important;
+ 
+width: 100% !important;
+padding: 15px !important;
+cursor: auto !important;
+}
+
+#month{
+    font-size: 16px !important;
+font-weight: 300 !important;
+color: #eee !important;
+line-height: 1.625 !important;
+ 
+background-color: #055bb6 !important;
+
+background-repeat: no-repeat;
+background-position: 95% 50%;
+ 
+border: 0px !important;
+border-radius: 8px !important;
+ 
+width: 100% !important;
+padding: 15px !important;
+cursor: auto !important;
+}
+
+#BTN{
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #333;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 3px solid #333;
+  transition: all .35s;
+}
